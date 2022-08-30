@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="270"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/julian-lechuga/">
+  <a href="https://www.linkedin.com/in/ignacio-balderrama/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
@@ -11,7 +11,7 @@
 </div>
 
 
-    const JulianLechuga = {
+    const IgnacioBalderrama = {
       pronouns: 'He' || 'Him',
       code: {
         languages: [ "JavaScript", "TypeScript" ],
@@ -21,8 +21,8 @@
         inProgress: [ "React Native", "React Next" ]
       },
       contact: {
-        email: "julianlechuga12@gmail.com",
-        tel: (+54 9) 11 33690832
+        email: "nacho.1617@gmail.com",
+        tel: (+54 9) 11 62386544
       }
     };
 
