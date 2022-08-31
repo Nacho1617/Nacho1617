@@ -1,16 +1,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="270"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/julian-lechuga/">
+  <a href="https://www.linkedin.com/in/Ignacio-Balderrama/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
 </div>
-  <img src="https://komarev.com/ghpvc/?username=JulianLechuga&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=IgnacioBalderrama&style=flat-square&color=blue" alt=""/>
 </div>
 
 
-    const JulianLechuga = {
+    const IgnacioBalderrama = {
       pronouns: 'He' || 'Him',
       code: {
         languages: [ "JavaScript", "TypeScript" ],
@@ -20,8 +20,8 @@
         inProgress: [ "React Native", "React Next" ]
       },
       contact: {
-        email: "julianlechuga12@gmail.com",
-        tel: (+54 9) 11 33690832
+        email: "nacho.1617@gmail.com",
+        tel: (+54 9) 11 62386544
       }
     };
 
@@ -68,8 +68,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JulianLechuga&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nacho1617&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianLechuga)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nacho1617)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianLechuga&lay
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nacho1617&lay
